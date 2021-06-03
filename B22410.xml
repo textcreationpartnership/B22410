@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall propositions presented from the House of Commons to the Lords by Master Pym at a conference of both Houses concerning the causes and remedies of division between the King and his subjects, under eight severall heads.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22410</idno><idno type="EEBO-CITATION">10285410</idno>
+  <idno type="VID">204655</idno>
+  <idno type="EEBO-PROQUEST">2240947618</idno>
+  
+            <idno type="STC">Wing E2729A</idno>
+            <idno type="OCLC">10285410</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204655)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall propositions presented from the House of Commons to the Lords by Master Pym at a conference of both Houses concerning the causes and remedies of division between the King and his subjects, under eight severall heads.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204655:1"/>
+            <pb facs="tcp:204655:1"/>
+            <p>SEVERALL PROPOSITIONS Presented from the House of COM<g ref="char:EOLhyphen"/>MONS to the LORDS by Master PYM, At a Conference of both Houses. Concerning the Causes and Re<g ref="char:EOLhyphen"/>medies of Division betwixt the King and his Subjects. Under eight severall Heads.</p>
+            <p>LONDON, Printed for IOHN BULL, <hi>June</hi> 7. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:204655:2"/>
+            <head>At a Conference of both Houses Mr. <hi>Pym</hi> presented divers Propositions from the House of Commons to the Lords in this manner.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <div type="introduction">
+               <p>
+                  <seg rend="decorInit">T</seg>He Knights, Citizens, and Burgesses assem<g ref="char:EOLhyphen"/>bled for the Commons in Parliament have commanded me to expresse their continu<g ref="char:EOLhyphen"/>ed desires, that as the duties and affections of both Houses are vnited upon the same Ends to glorifie God in maintaining his true Religion, to serve the King in the preservation of his Royall Person and Dignity, and to pro<g ref="char:EOLhyphen"/>cure the common good in maintaining the Justice and Liber<g ref="char:EOLhyphen"/>ty of the Kingdome, so the Councels of both may be ever constantly united in the use and pursuite of such meanes as may most effectually conduce to that End.</p>
+               <p>This may well be called one End, though in respect of the se<g ref="char:EOLhyphen"/>verall Relations it comprehends these three Branches, they have the same Roote, they have the same Essence and Being. It is impossible that any man should truely effect the King or the common good that is negligent of Religion, neither can any man fully discharge his duty to God that is not carefull of these other great Obligations to his Maiesty and the State.</p>
+               <p>The Commons have now taken into their confideration di<g ref="char:EOLhyphen"/>vers points very important to the accomplishing of this great End which I am commanded to represent to your Lordships that if they be agreeable to your Judgements, you may then be pleased to joyne with them.</p>
+               <p>Dangerous and malicious Designes have bin lately discove<g ref="char:EOLhyphen"/>red
+<pb facs="tcp:204655:2"/> for disturbance of the peace both of <hi>England</hi> and <hi>Scotland,</hi> and although God in much mercy hath hitherto delivered us, yet there is just cause to thinke that the same Enemies of Re<g ref="char:EOLhyphen"/>ligion and of the Common-good will continue by new Pio<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to seeke our ruine and destruction, which nothing is so likely to prevent, as the Wisdome and Authority of his Maiesty, assi<g ref="char:EOLhyphen"/>sted by the Advice of this Parliament, which is the reason that the House of Commons have at this time been more in<g ref="char:EOLhyphen"/>tentive upon these ensuing Propositions, which by their di<g ref="char:EOLhyphen"/>rection, I come to propound to your Lordships under Eight severall Heads,</p>
+            </div>
+            <div n="1" type="head">
+               <head>1. The first Head concernes his Majesties Councell of State, this Proposition hath onely two Branches.</head>
+               <p n="1">1. That his Majesty be humbly Petitioned to remove those evill Councellors against whom there shall be any just excep<g ref="char:EOLhyphen"/>tion, and that the intention of the Commons may the better be apprehended, I am commanded to describe them thus, that they are such as have been Active and bold in promoting the manifold disorders and pernicious courses which have lately bin taken to the great hazard of his Maiesties Royall Estate, and oppression of the People, or such as doe still persevere to hinder or oppose the Reformation of those abuses in Parlia<g ref="char:EOLhyphen"/>ment, or seeke to stirre up new causes of Division betwixt the King and his Subjects.</p>
+               <p>I have further direction to tell your Lordships, that the House of Commons do for the present, forbear to deliver any Charge against any particular persons, hoping that his Maie<g ref="char:EOLhyphen"/>sty by his owne Wisdome will find out those that are faulty, but if in this way they shall not have that successe which they desire, they intend in convenient time to present particular exceptions against such persons whose continuance in place of trust and publique imployment they conceive will be pre<g ref="char:EOLhyphen"/>judiciall to the State.</p>
+               <p>And <hi>my Lords,</hi> it is not to be wondred at, if the House of Commons desire evill Councellours to be removed, the mi<g ref="char:EOLhyphen"/>series and distempers, under which the Kingdome labours must needs make them sensible of that which is the cause of
+<pb facs="tcp:204655:3"/> those miseries, those who have bin active in these latter times in managing his Majesties affayres, have bin diligent and in<g ref="char:EOLhyphen"/>tentive upon their owne designes, but negligent of the com<g ref="char:EOLhyphen"/>mon good, if not opposite to it, and the successe hath beene answerable, Religion and Iustice the Honour and wealth of his Maiesty and of the Kingdome have withered and decayed, Popery, Superstition in the Church, divers mischievous pro<g ref="char:EOLhyphen"/>jects, oppression, Extortion in the Common-wealth have in<g ref="char:EOLhyphen"/>creased and flourisht, and many of those who have bin Actors in these common Calamities, have raised their Fortunes upon the publique ruine, the answer of the Gardiner may some<g ref="char:EOLhyphen"/>what fit our Case, who being asked what the reason was that Trees and good Hearbes required so much care and dre<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g to make them prosper, he returned this Reason, that the Earth was Mother to the Weeds, and but a Nurse to the Hearbes.</p>
+               <p>Kings and Queens are said in the Scripture to be nourishing Fathers and nursing Mothers, and so they ought to be the Fa<g ref="char:EOLhyphen"/>ther and the Mother in caring for the Child intends the good of it, but these evill Councellours have had other designes and Aymes which have diverted their endeavours from the com<g ref="char:EOLhyphen"/>mon good, and thereby have brought us <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto such a State and Condition, as if we had bin under Hirelings such as seek their owne advantage, mischiefes like hurtfull Weeds have pro<g ref="char:EOLhyphen"/>spered under their Government, as the fruit of their owne <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntentions, but those things as might have bin for the benefit of the Common-wealth, have not onely found a difficult pro<g ref="char:EOLhyphen"/>gresse but often much opposition and discouragement.</p>
+               <p>The other Branches of this Head is this, that His Majestie would be graciously pleased to commit his owne Businesse and the affaires of the Kingdome to such Councellours and Officers as his Parliament may have cause to confide in.</p>
+            </div>
+            <div n="2" type="head">
+               <head>2. The second Head concerning the Queens Majesty.</head>
+               <p n="1">1. That his Majesty will be graciously pleased by advice of his Parliament to perswade the Queen to accept some of the Nobility and others of trust into her service, in such places as are now in her disposing, this wee doe with more confi<g ref="char:EOLhyphen"/>dence
+<pb facs="tcp:204655:3"/> propound, because her Majesty was pleased since the meeting of this Parliament, to send a gracious Message to the House of Commons; wherein she expressed her desire to con<g ref="char:EOLhyphen"/>curre with the Parliament in those things which might be for the publique good, for which she received humble thankes, and we cannot but hope that this Petition of the Parliament will be acceptable to her Majesty as being a sure meanes by which she might alwayes be informed of all occasions and opportunities wherein she may further the Common-good of the Kingdome.</p>
+               <p n="2">2. That no Jesuite be received into her Majesties Service, nor any Priest native of any his Majesties Dominions, and that all such Jesuites and Priests be straightly restrained from comming to the Court.</p>
+               <p n="3">3 That the Colledge of <hi>Capuchines</hi> may be dissolved, and that they may be sent away out of the Kingdome.</p>
+               <p>
+                  <hi>These points concerning Jesuites, Priests and Capuchines, are to be seconded with divers Resolutions.</hi>
+                  <list>
+                     <item>1. The danger and scandall of Religion and the peace of the Kingdome.</item>
+                     <item>2. The disaffection to the State manifested in two Letters dated 6 <hi>May,</hi> directed to persons beyond the Sea, whereby many scandals are cast upon the Parliament, and the good Sub<g ref="char:EOLhyphen"/>jects of this Kingdome under the name of <hi>Puritanes</hi> as disaf<g ref="char:EOLhyphen"/>fected and iniurious to the Queenes person, and thereupon the Cardinall excited to some designe against <hi>England,</hi> and likewise in the Letter of Father <hi>Phillips</hi> wherein by way of reproach to the Parliament, he writ that the Protestation ta<g ref="char:EOLhyphen"/>ken in both Houses, is like the <hi>Scottish</hi> Covenant, but some<g ref="char:EOLhyphen"/>what worse.</item>
+                     <item>3. Divers informations are given that great quantities of Gold are transported by th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>se <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>iests.</item>
+                  </list>
+               </p>
+               <p n="4">4. The fourth point concerning the Queens Majesty is up<g ref="char:EOLhyphen"/>on the speciall occasion of his Majesties absence, that your Lordships will joyne with the House of Commons in advi<g ref="char:EOLhyphen"/>sing the King that some of the Nobility and others of quality with a competent Guard may be appointed to attend the
+<pb facs="tcp:204655:4"/> Queen for the security of her Royall Person against all designe of the Papists and others ill-affected to the peace of the King<g ref="char:EOLhyphen"/>dome.</p>
+               <p>J am commanded to speake somewhat to the last point, be<g ref="char:EOLhyphen"/>cause of some aspertions and misapprehensions cast upon the Commons, since it hath bin taken into consideration in the House, as if under this pretence they meant to lay some re<g ref="char:EOLhyphen"/>straint upon her Majesty.</p>
+               <p>In this mention of danger from Popish designes is not in<g ref="char:EOLhyphen"/>tended as if the Papists meant to doe any hurt to her Maie<g ref="char:EOLhyphen"/>sties Person for prevention whereof she should stand in need of a guard, the dingers that are sought to be prevented by this guard are these: Lest the Papists should cease upon her Ma<g ref="char:EOLhyphen"/>jesties Person, and make her by force the head of their party in any desperate attempt wherein if they should faile they may yet hope to make their Peace the better when they have a pawne of such a valew.</p>
+               <p>Another danger is this, that by freedome of Accesse to her Majesties Court, they may have opportunity to infuse any e<g ref="char:EOLhyphen"/>vill Councell in to her Majesty to the disturbance and hazard of the publicke peace of the Kingdom as often they have done.</p>
+               <p>Jt ought to be our continuall prayer to God, that we may not enter into temptation, there are multitudes of Divels which are ever watching for opportunity to doe us hurt; and therefore it is the great mercy of God to place a guard of An<g ref="char:EOLhyphen"/>gels about us. This guard desired to attend her Majesty is such a guard as may keep of the evill spirits of Priests and Jesuites, which in their free accesse to the Court may trouble her with divers temptations, dangerous to her selfe and to the State, and to have such a guard we hope she will take as a happi<g ref="char:EOLhyphen"/>nesse to her selfe, and an Argument of Love in us, and truely if we did not love her, we should not be so desirous of graci<g ref="char:EOLhyphen"/>ous Favour and Love, and yet she might doe such things as might confirme her in the hearts and affections of the people.</p>
+            </div>
+            <div n="3" type="head">
+               <head>3. The third Head concernes the Prince and his Royall issue.</head>
+               <p>That some persons of publique trust and well-affected to Religion may be placed about the Prince, who may take
+<pb facs="tcp:204655:4"/> care of his education, especially in matters of Religion, and that the like care may be taken of the rest of his Maiesties Children.</p>
+            </div>
+            <div n="4" type="head">
+               <head>4. The fourth Head concernes Papists more generally, where<g ref="char:EOLhyphen"/>in it is desired that his Majesty may be moved in these particu<g ref="char:EOLhyphen"/>lars.</head>
+               <p>That he will be pleased to be very sparing in granting Li<g ref="char:EOLhyphen"/>cences to any Papists to come to the Court.</p>
+               <p n="2">2. That if any come without Licence, the Lawes may be severally put in execution upon them.</p>
+               <p n="3">3. That all English Ladies being Papists, may be sent from the Court.</p>
+               <p n="4">4. That no pensions may be allowed and sent out of the Kingdome, to any of the Fugitives abroad.</p>
+               <p n="5">5. That such active Papists as well of Nobility as others, as shall be conceived dangerous to the State may be confined to such places in the Kingdome, wherein they shall have least power to raise any party to the disturbance of the pub<g ref="char:EOLhyphen"/>lique peace, as heretofore in Queen <hi>Eliz.</hi> time was usuall.</p>
+            </div>
+            <div n="5" type="head">
+               <head>5. The Fifth Head concerning the Popes Nuntio.</head>
+               <p>That it may be declared by an Act of Parliament, that if any man shall presume to come into this Kingdome with instruc<g ref="char:EOLhyphen"/>tions from the Pope, or Court of Rome, that he shall be in case of high treason, and out of the protection of the King, and of the Law.</p>
+            </div>
+            <div n="6" type="head">
+               <head>6. The Sixth Head concerning the security and Peace of the Kingdome.</head>
+               <p n="1">1. That his Maiesty by advice of the Parliament, will be pleased to place good Lord Lievtenants in every Countie, with direction to be very carefull in the choise of deputie Lievtenants.</p>
+               <p n="2">2. That the trained Bands be furnished with Armes, pow<g ref="char:EOLhyphen"/>der, and Bullet, and that they be exercised, and made fit for Service, and an Oath prepared by the Authority of the King and Parliament, to be taken by the Lord Lievtenants, Cap<g ref="char:EOLhyphen"/>taines, and other Officers of the trained Bands, whereby they may be obliged faithfully to serve the King and Stare.</p>
+               <pb facs="tcp:204655:5"/>
+               <p n="3">3. That the Cinque Ports and other Forts of the Kingdom may be put into good hands, and a List of those in whose hands they were may be presented to the Parliament, and that speciall care be taken for reparation and provision of the Forts.</p>
+               <p n="4">4. That my Lord Admirall be desired to informe the Par<g ref="char:EOLhyphen"/>liament in what case the Navie is, that if there be any defect it may be provided for out of the Moneys that are to come in upon the Tunnage and Poundage.</p>
+            </div>
+            <div n="7" type="head">
+               <head>7. The seventh Head concernes a generall pardon</head>
+               <p>that His Majesty will be pleased to give direction to his learned Coun<g ref="char:EOLhyphen"/>cell, to prepare a generall pardon in such a large and beneficiall manner as may be for the reliefe and security of his good Sub<g ref="char:EOLhyphen"/>jects.</p>
+            </div>
+            <div n="8" type="head">
+               <head>8. The eight Head concerning a Committee of both Houses.</head>
+               <p>That your Lordships will appoint a Select <hi>Committee</hi> of the Members of your House to joyne with a proportionable number of the House of Commons from time to time to con<g ref="char:EOLhyphen"/>ferre upon such particular courses as shall be most effectuall for reducing these Propositions to effect for the publique good.</p>
+            </div>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:204655:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
